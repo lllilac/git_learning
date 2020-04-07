@@ -1,0 +1,6 @@
+一 简介：
+Git是目前世界上最先进的分布式版本控制系统。
+二 安装：
+在Windows上安装Git：下载地址：https://git-scm.com/downloads
+验证：
+安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功！
